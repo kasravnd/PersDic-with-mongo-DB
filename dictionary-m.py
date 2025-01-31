@@ -3,7 +3,7 @@
 # -*- coding: utf-8 -*-
 #
 # SCRIPT: PERSDIC
-# AUTHOR: Kasra Ahmadvand // kasra.ahmadvand@gmail.com
+# AUTHOR: Kasra Vand // kasraavand@gmail.com
 # DATE:   2013/7/20
 # REV:    1.1.0.T (Valid are A, B, T and P)
 #         (For Alpha, Beta, Test and Production)
